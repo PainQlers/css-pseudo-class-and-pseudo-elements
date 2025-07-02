@@ -1,1 +1,11 @@
-/* Start coding here */
+#email {
+    background-color: lightgrey;
+}
+
+#username:hover ,#password:hover {
+border-color: red;
+}
+
+button:hover{
+    color: pink;
+}
