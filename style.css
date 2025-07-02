@@ -1,11 +1,14 @@
-#email {
-    background-color: lightgrey;
+=======
+/* Start coding here */
+
+input:disabled {
+  background-color: lightgrey;
 }
 
-#username:hover ,#password:hover {
-border-color: red;
+input:hover {
+  border-color: khaki;
 }
 
-button:hover{
-    color: pink;
+button:hover {
+  color: pink;
 }
